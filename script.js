@@ -1,5 +1,5 @@
 //your code here!
-let list = document.querySelector("#infiList");
+let list = document.querySelector("#infi-list");
 
 let addItems = (start, end) => {
 	for (let i = start; i < end; i++) {
